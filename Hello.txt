@@ -13,4 +13,7 @@ Hello xcf!Hello Git!
 Hello xcf!Hello Git!
 Hello xcf!Hello Git!
 Hello xcf!Hello Git!  master test
-Hello xcf!Hello Git!
+Hello xcf!Hello Git! hot-fix test
+
+Hello xcf!Hello Git! hot-fix test
+
