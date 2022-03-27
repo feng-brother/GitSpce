@@ -12,5 +12,5 @@ Hello xcf!Hello Git!
 Hello xcf!Hello Git!
 Hello xcf!Hello Git!
 Hello xcf!Hello Git!
-Hello xcf!Hello Git!
+Hello xcf!Hello Git!  master test
 Hello xcf!Hello Git!
